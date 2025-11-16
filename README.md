@@ -3,7 +3,7 @@
 A powerful internal search engine designed for marketing teams to quickly find documents, assets, and information using fast indexing, intelligent categorization, and full-text search.
 
 ## Features
-1) Smart Search <br>
+1)Smart Search <br>
 
 Full-text search across all uploaded documents<br>
 
@@ -13,7 +13,7 @@ Instant, relevant results with preview snippets<br>
 
 Supports TXT, PDF, CSV, DOCX, images, and more<br>
 
-2) Document Upload & Processing
+2)Document Upload & Processing
 
 Upload multiple document formats<br>
 
