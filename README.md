@@ -5,27 +5,27 @@ A powerful internal search engine designed for marketing teams to quickly find d
 ## Features
 1)Smart Search <br>
 
-Full-text search across all uploaded documents<br>
+- Full-text search across all uploaded documents<br>
 
-Keyword and content-based matching<br>
+- Keyword and content-based matching<br>
 
-Instant, relevant results with preview snippets<br>
+- Instant, relevant results with preview snippets<br>
 
-Supports TXT, PDF, CSV, DOCX, images, and more<br>
+- Supports TXT, PDF, CSV, DOCX, images, and more<br>
 
 2)Document Upload & Processing
 
-Upload multiple document formats<br>
+- Upload multiple document formats<br>
 
-Backend automatically extracts text<br>
+--Backend automatically extracts text<br>
 
-Metadata like file name, date, and size stored<br>
+- Metadata like file name, date, and size stored<br>
 
-Secure file storage using Multer<br>
+- Secure file storage using Multer<br>
 
 3)Auto Categorization<br>
 
-Backend automatically categorizes documents using extracted content.<br>
+- Backend automatically categorizes documents using extracted content.<br>
 
 Example categories:<br>
 
@@ -43,13 +43,13 @@ Internal Docs<br>
 
 Custom categories based on content<br>
 
-4) Categories Dashboard<br>
+4)Categories Dashboard<br>
 
-Dynamic categories list<br>
+- Dynamic categories list<br>
 
-Displays count of files in each category<br>
+- Displays count of files in each category<br>
 
-Filter documents by category<br>
+- Filter documents by category<br>
 
 ## Tech Stack
 Frontend -  Reactjs<br>
