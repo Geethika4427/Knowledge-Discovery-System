@@ -17,7 +17,7 @@ A powerful internal search engine designed for marketing teams to quickly find d
 
 - Upload multiple document formats<br>
 
---Backend automatically extracts text<br>
+- Backend automatically extracts text<br>
 
 - Metadata like file name, date, and size stored<br>
 
@@ -29,17 +29,17 @@ A powerful internal search engine designed for marketing teams to quickly find d
 
 Example categories:<br>
 
-Campaigns<br>
+Campaigns,<br>
 
-Branding<br>
+Branding,<br>
 
-Market Research<br>
+Market Research,<br>
 
-Social Media<br>
+Social Media,<br>
 
-Assets<br>
+Assets,<br>
 
-Internal Docs<br>
+Internal Docs,<br>
 
 Custom categories based on content<br>
 
